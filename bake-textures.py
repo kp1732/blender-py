@@ -226,7 +226,6 @@ smartUV(modelCopy)
 
 # if the copy was decimated, get back lost detail
 if decimated:
-    
     # subdivide surface of copy to match triangle count from original
     subSurfToTarget(modelCopy, importedModel)
     
