@@ -1,6 +1,6 @@
 ###########################################################################
 # 
-# Author      : Kevin Perez, Scanifly New York 
+# Author      : Kevin Perez
 # Description : Unifies multiple texture maps into one,
 #               outputs new UV unwrapped 3D model with single texture
 ###########################################################################
